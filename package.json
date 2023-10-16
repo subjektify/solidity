@@ -1,5 +1,5 @@
 {
-  "name": "plugin-template",
+  "name": "subjektify-solidity",
   "version": "0.0.1",
   "description": "The plugin-template repository is a template for creating new Subjektify plugins, providing a starting point for defining custom functionality to be used in the development of decentralized applications.",
   "author": "subjektify",

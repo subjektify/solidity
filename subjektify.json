@@ -1,6 +1,10 @@
 {
-    "namespace": "plugin-template",
+    "namespace": "solidity",
     "version": "0.0.1",
     "license": "MIT",
-    "plugin": true
+    "author": "subjektify-dev",
+    "plugin": true,
+    "files": [
+        "dist"
+    ]
 }

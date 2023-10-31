@@ -1,8 +1,8 @@
 {
-  "name": "subjektify-solidity",
+  "name": "@subjektify-dev/solidity",
   "version": "0.0.1",
-  "description": "The plugin-template repository is a template for creating new Subjektify plugins, providing a starting point for defining custom functionality to be used in the development of decentralized applications.",
-  "author": "subjektify",
+  "description": "Subjektify's Solidity plugin transpiles Subjekt files to Solidity smart contracts.",
+  "author": "subjektify-dev",
   "license": "MIT",
   "main": "dist/index",
   "scripts": {
@@ -16,9 +16,6 @@
     "subjektify",
     "plugin"
   ],
-  "dependencies": {
-    "subjektify": "file:../subjektify"
-  },
   "devDependencies": {
     "@types/node": "^20.8.6",
     "eslint": "^8.51.0",
@@ -27,6 +24,7 @@
     "jest": "^29.7.0",
     "prettier": "^3.0.3",
     "rimraf": "^5.0.5",
+    "subjektify": "^0.0.5",
     "typescript": "^5.2.2"
   }
 }
